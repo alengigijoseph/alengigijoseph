@@ -1,10 +1,7 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/05/74/77/61/360_F_574776101_7XOaFUlqGOfWTYQxBg3d10Qvp6jI3gba.jpg)]
-<h1 align="center">Hi 👋, I'm Alen Gigi</h1>
-<h3 align="center">A passionate Engineer</h3>
+<h1 align="center">Hi 👋, \nI'm Alen Gigi</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alengigijoseph&label=Profile%20views&color=0e75b6&style=flat" alt="alengigijoseph" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alengigijoseph" alt="alengigijoseph" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/alengigi" target="blank"><img src="https://img.shields.io/twitter/follow/alengigi?logo=twitter&style=for-the-badge" alt="alengigi" /></a> </p>
 
