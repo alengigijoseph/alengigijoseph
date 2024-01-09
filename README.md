@@ -1,5 +1,5 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/05/74/77/61/360_F_574776101_7XOaFUlqGOfWTYQxBg3d10Qvp6jI3gba.jpg)]
-<h1 align="center">Hi 👋, /nI'm Alen Gigi</h1>
+<h1 align="left">Hi There👋,</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alengigijoseph&label=Profile%20views&color=0e75b6&style=flat" alt="alengigijoseph" /> </p>
 
