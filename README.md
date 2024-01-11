@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alengigijoseph&label=Profile%20views&color=0e75b6&style=flat" alt="alengigijoseph" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alengigi" target="blank"><img src="https://img.shields.io/twitter/follow/alengigi?logo=twitter&style=for-the-badge" alt="alengigi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alengxgx" target="blank"><img src="https://img.shields.io/twitter/follow/alengxgx?logo=twitter&style=for-the-badge" alt="alengxgx" /></a> </p>
 
 - 🌱 I’m currently learning Robotic Operating System (ROS)
 
