@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alengigijoseph&show_icons=true&locale=en&theme=dark" alt="alengigijoseph" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alengigijoseph&theme=dark" alt="alengigijoseph" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alengigijoseph&" alt="alengigijoseph" /></p>
