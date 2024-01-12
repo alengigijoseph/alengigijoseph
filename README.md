@@ -23,6 +23,7 @@
     <img src="https://skillicons.dev/icons?i=ros,qt,cmake,docker,raspberrypi,linux,bash,c,cpp,py,anaconda,pytorch,tensorflow,opencv,arduino,matlab,androidstudio,react,flutter,gradle,kotlin,java,js,html,nodejs,mongodb,firebase,aws,vscode,eclipse,postman,stackoverflow,git,github,figma,unity,ps,blender,autocad" />
   </a>
 </p>
+<p><b></b></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alengigijoseph&show_icons=true&locale=en&layout=compact&theme=dark" alt="alengigijoseph" /></p>
 
