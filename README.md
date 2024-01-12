@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/alengxgx" target="blank"><img src="https://img.shields.io/twitter/follow/alengigi?logo=twitter&style=for-the-badge" alt="alengxgx" /></a> </p>
 
-- 🌱 I’m currently learning Robotic Operating System (ROS)
+- 🌱 Currently learning Robotic Operating System (ROS)
 
-- 📫 How to reach me **alenggjoseph@gmail.com**
+- 📫 Contact me at **alenggjoseph@gmail.com**
+
+- 🌐 visit me at **https://alengigijoseph.github.io/MyPortfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
