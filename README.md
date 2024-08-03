@@ -1,9 +1,6 @@
 <h1 align="left">Hi There👋,</h1>
 <p align="left">Electronics engineering student from India. Focussed on building real time Embedded systems. Also a part time Full stack Android App Developer, currently accepting works.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alengigijoseph&label=Profile%20views&color=0e75b6&style=flat" alt="alengigijoseph" /> </p>
-
-<p align="left"> <a href="https://twitter.com/alengxgx" target="blank"><img src="https://img.shields.io/twitter/follow/alengigi?logo=twitter&style=for-the-badge" alt="alengxgx" /></a> </p>
 
 - 🌱 Currently learning Robotic Operating System (ROS)
 
