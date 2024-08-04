@@ -1,5 +1,5 @@
 <h1 align="left">Hi There👋,</h1>
-<p align="left">Electronics engineering student from India. Focussed on building real time Embedded systems. Also a part time Full stack Android App Developer, currently accepting works.</p>
+<p align="left">Final year undergrad pursuing bachelors in electronics. My interests lie in the realm of Robotics, where I immerse myself in building autonomous systems. I Also freelance as a native Android developer.</p>
 
 
 - 🌱 Currently learning Robotic Operating System (ROS)
