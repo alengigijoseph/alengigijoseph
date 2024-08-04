@@ -1,9 +1,6 @@
 <h1 align="left">Hi There👋,</h1>
 <p align="left">Final year undergrad pursuing bachelors in electronics. My interests lie in the realm of Robotics, where I immerse myself in building autonomous systems. I Also freelance as a native Android developer.</p>
 
-
-- 🌱 Currently learning Robotic Operating System (ROS)
-
 - 📫 Contact me at **alenggjoseph@gmail.com**
 
 - 🌐 visit me at **https://alengigijoseph.github.io/MyPortfolio/**
