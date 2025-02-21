@@ -4,7 +4,7 @@
 - 📫 Mail me at
 **alenggjoseph@gmail.com**
 
-- 🌐**https://alengigijoseph.github.io/MyPortfolio/**
+- 🌐 My Works: **https://alengigijoseph.github.io/MyPortfolio/**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
