@@ -1,9 +1,10 @@
 <h1 align="left">Hi There👋,</h1>
-<p align="left">Final year undergrad pursuing bachelors in electronics. My interests lie in the realm of Robotics, where I immerse myself in building autonomous systems. I Also freelance as a native Android developer.</p>
+<p align="left">Final year undergrad pursuing bachelors in electronics. My interests lie in the realm of Robotics, where I immerse myself in building autonomous systems.</p>
 
-- 📫 Contact me at **alenggjoseph@gmail.com**
+- 📫 Mail me at
+**alenggjoseph@gmail.com**
 
-- 🌐 visit me at **https://alengigijoseph.github.io/MyPortfolio/**
+- 🌐 **https://alengigijoseph.github.io/MyPortfolio/**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
@@ -16,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,qt,cmake,docker,raspberrypi,linux,bash,c,cpp,py,anaconda,pytorch,tensorflow,opencv,arduino,matlab,androidstudio,react,flutter,gradle,kotlin,java,js,html,nodejs,mongodb,firebase,aws,vscode,eclipse,postman,stackoverflow,git,github,figma,unity,ps,blender,autocad" />
+    <img src="https://skillicons.dev/icons?i=ros,qt,cmake,docker,raspberrypi,linux,bash,c,cpp,py,anaconda,pytorch,tensorflow,opencv,arduino,matlab,androidstudio,gradle,kotlin,java,js,html,nodejs,mongodb,firebase,aws,vscode,postman,stackoverflow,git,github,figma,unity,autocad" />
   </a>
 </p>
 <p><b></b></p>
