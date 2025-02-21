@@ -4,7 +4,7 @@
 - 📫 Mail me at
 **alenggjoseph@gmail.com**
 
-- 🌐 **https://alengigijoseph.github.io/MyPortfolio/**
+- 🌐**https://alengigijoseph.github.io/MyPortfolio/**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,qt,cmake,docker,raspberrypi,linux,bash,c,cpp,py,anaconda,pytorch,tensorflow,opencv,arduino,matlab,androidstudio,gradle,kotlin,java,js,html,nodejs,mongodb,firebase,aws,vscode,postman,stackoverflow,git,github,figma,unity,autocad" />
+    <img src="https://skillicons.dev/icons?i=ros,qt,cmake,docker,raspberrypi,linux,bash,c,cpp,py,anaconda,pytorch,tensorflow,opencv,arduino,matlab,androidstudio,gradle,kotlin,java,js,html,nodejs,mongodb,firebase,aws,vscode,postman,stackoverflow,git,github,figma,fusion360,autocad" />
   </a>
 </p>
 <p><b></b></p>
