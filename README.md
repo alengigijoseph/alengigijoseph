@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,qt,cmake,docker,raspberrypi,linux,bash,c,py,pytorch,tensorflow,opencv,arduino,matlab,androidstudio,gradle,kotlin,java,js,html,nodejs,mongodb,aws,vscode,git,figma,autocad" />
+    <img src="https://skillicons.dev/icons?i=ros,qt,cmake,docker,raspberrypi,linux,bash,c,py,pytorch,tensorflow,opencv,arduino,matlab,androidstudio,kotlin,js,html,nodejs,mongodb,aws,vscode,git,figma,autocad" />
   </a>
 </p>
 <p><b></b></p>
